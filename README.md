@@ -1,2 +1,2 @@
 # covid-19
-Small project on covid-19
+Simple project on covid-19
